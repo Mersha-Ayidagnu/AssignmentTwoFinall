@@ -1,0 +1,8 @@
+
+    <resources>
+        <string name="app_name">AssignmentTwo</string>
+        <string name="text_view">text</string>
+        <string name="counterr_btn">counter_btn</string>
+        <string name="writen_txt">Edit Text</string>
+
+    </resources>
